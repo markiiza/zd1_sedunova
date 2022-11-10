@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">zd1_sedunova</string>
+    <string name="passwords">Введите пароль:</string>
+    <string name="login">Введите логин:</string>
+    <string name="pod1">Введите пароль:</string>
+    <string name="vhod">Войти</string>
+
+</resources>
